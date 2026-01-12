@@ -30,7 +30,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 ![Features icons](./img/Icons-features-Home.svg) 
 
-<p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Beacon-Features">Check all the features</a>.</p><br>
+<p align="center"><a href="/Beacon-Features">Check all the features</a>.</p><br>
 
 <h1 align="center">Announcements</h1>
 
@@ -91,4 +91,4 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 </div>
 
-<p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">Check all the announcements</a>.</p>
+<p align="center"><a href="/Announcements">Check all the announcements</a>.</p>
