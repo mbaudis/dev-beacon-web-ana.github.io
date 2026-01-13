@@ -4,19 +4,17 @@
 
 ##### Implementation Toolkits
 
-<ul>
-  <li><a href="https://github.com/ga4gh-beacon/beacon-v2/">Beacon Specification</a></li>
-  <li><a href="https://docs.genomebeacons.org/">Beacon Specification Documentation</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon2-pi-api">Beacon V2 PI GitHub</a></li>
-  <li><a href="https://beacon-documentation-demo.ega-archive.org/">Beacon V2 PI Documentation</a></li>
-  <li><a href="https://github.com/progenetix/bycon/">Progenetix Bycon GitHub</a></li>
-  <li><a href="https://bycon.progenetix.org/">Progenetix Bycon Documentation</a></li>
-  <li><a href="https://rd.discovery-nexus.org/">Cafe Variome site</a></li>
-  <li><a href="https://github.com/elixir-europe/beacon-network-docker">Beacon Network GitHub</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon-template-ui/tree/main">Beacon Template UI</a></li>
-  <li><a href="https://www.nature.com/articles/s41587-023-01972-9">sBeacon</a></li>
-  <li><a href="https://github.com/aehrc/AskBeacon">AskBeacon</a></li>
-</ul>
+- [Beacon Specification](https://github.com/ga4gh-beacon/beacon-v2/)
+- [Beacon Specification Documentation](https://docs.genomebeacons.org/)
+- [Beacon V2 PI GitHub](https://github.com/EGA-archive/beacon2-pi-api)
+- [Beacon V2 PI Documentation](https://beacon-documentation-demo.ega-archive.org/)
+- [Progenetix Bycon GitHub](https://github.com/progenetix/bycon/)
+- [Progenetix Bycon Documentation](https://bycon.progenetix.org/)
+- [Cafe Variome site](https://rd.discovery-nexus.org/)
+- [Beacon Network GitHub](https://github.com/elixir-europe/beacon-network-docker)
+- [Beacon Template UI](https://github.com/EGA-archive/beacon-template-ui/tree/main)
+- [sBeacon](https://www.nature.com/articles/s41587-023-01972-9)
+- [AskBeacon](https://github.com/aehrc/AskBeacon)
 
 ##### Helpful Resources
 <ul>
