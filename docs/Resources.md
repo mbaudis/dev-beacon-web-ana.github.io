@@ -1,7 +1,9 @@
-<h1 align="center">Resources</h1>
+# Resources
 
-<h3>Documentation and Websites</h3>
-<strong>Implementation Toolkits</strong><br>
+### Documentation and Websites
+
+##### Implementation Toolkits
+
 <ul>
   <li><a href="https://github.com/ga4gh-beacon/beacon-v2/">Beacon Specification</a></li>
   <li><a href="https://docs.genomebeacons.org/">Beacon Specification Documentation</a></li>
@@ -15,7 +17,8 @@
   <li><a href="https://www.nature.com/articles/s41587-023-01972-9">sBeacon</a></li>
   <li><a href="https://github.com/aehrc/AskBeacon">AskBeacon</a></li>
 </ul>
-<strong>Helpful Resources</strong><br>
+
+##### Helpful Resources
 <ul>
   <li><a href="https://www.ga4gh.org/product/beacon-api/">Beacon as GA4GH Standard</a></li>
   <li><a href="https://beacon-verifier-demo.ega-archive.org/">CRG Beacon Verifier</a> - configuration validation of Beacon instances</li>
@@ -25,9 +28,9 @@
   <li><a href="https://github.com/mirgin01/phenopackets-to-BFF">CRG Phenopackets-to-BFF converter</a></li>
 </ul>
 
-<h3>Key publications</h3> 
+### Key publications
 
-### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
+#### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 >
 > *Lauren A. Fromont, Mauricio Moldes, Michael Baudis, Anthony J. Brookes, Arcadi Navarro, Jordi Rambla*
 >
@@ -36,7 +39,7 @@ PMID: 38427629, PMCID: PMC10906850
 >
 > In the age of data-driven biomedical research and clinical practice, the sharing of genomic and clinical data for health research and personalized medicine has become an important contributor to improved diagnosis and treatment. From the data owner’s perspective, potential benefits include improved treatments, personalization of healthcare practice, and more effective control of disease proliferation. 
 
-### [**Beacon v2 and Beacon networks: A “lingua franca” for federated data discovery in biomedical genomics, and beyond**](https://onlinelibrary.wiley.com/doi/10.1002/humu.24369)
+#### [**Beacon v2 and Beacon networks: A “lingua franca” for federated data discovery in biomedical genomics, and beyond**](https://onlinelibrary.wiley.com/doi/10.1002/humu.24369)
 >
 > *Jordi Rambla, Michael Baudis, Roberto Ariosa, Tim Beck, Lauren A. Fromont, Arcadi Navarro, Rahel Paloots, Manuel Rueda, Gary Saunders, Babita Singh, John D. Spalding, Juha Törnroos, Claudia Vasallo, Colin D. Veal, Anthony J. Brookes*
 >
@@ -45,7 +48,7 @@ PMID: 35297548, PMCID: PMC9322265
 >
 >Beacon is a basic data discovery protocol issued by the Global Alliance for Genomics and Health (GA4GH). The main goal addressed by version 1 of the Beacon protocol was to test the feasibility of broadly sharing human genomic data, through providing simple "yes" or "no" responses to queries about the presence of a given variant in datasets hosted by Beacon providers.
 
-### [**Federated discovery and sharing of genomic data using Beacons**](https://www.nature.com/articles/s41587-019-0046-x)
+#### [**Federated discovery and sharing of genomic data using Beacons**](https://www.nature.com/articles/s41587-019-0046-x)
 >
 > *Marc Fiume, Miroslav Cupak, Stephen Keenan, Jordi Rambla, Sabela de la Torre, Stephanie O. M. Dyke, Anthony J. Brookes, Knox Carey, David Lloyd, Peter Goodhand, Maximilian Haeussler, Michael Baudis, Heinz Stockinger, Lena Dolman, Ilkka Lappalainen, Juha Törnroos, Mikael Linden, J. Dylan Spalding, Saif Ur-Rehman, Angela Page, Paul Flicek, Stephen Sherry, David Haussler, Susheel Varma, Gary Saunders & Serena Scollen*
 >
